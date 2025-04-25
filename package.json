@@ -1,5 +1,6 @@
 {
   "name": "my-v0-project",
+  "homepage": "https://github.com/Hari-Pant/tools-utility-website",
   "version": "0.1.0",
   "private": true,
   "scripts": {
