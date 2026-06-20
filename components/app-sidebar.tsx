@@ -89,7 +89,7 @@ export function AppSidebar() {
   return (
     <Sidebar>
       <SidebarHeader className="flex h-14 items-center border-b px-4">
-        <span className="font-semibold">DevTools</span>
+        <span className="font-semibold">DevTools 🇳🇵</span>
       </SidebarHeader>
       <SidebarContent>
         <SidebarMenu>
@@ -110,7 +110,7 @@ export function AppSidebar() {
         </SidebarMenu>
       </SidebarContent>
       <SidebarFooter className="border-t p-4">
-        <div className="text-xs text-muted-foreground">© {new Date().getFullYear()} DevTools</div>
+        <div className="text-xs text-muted-foreground">© {new Date().getFullYear()} DevTools created by Hari 🇳🇵</div>
       </SidebarFooter>
     </Sidebar>
   )
