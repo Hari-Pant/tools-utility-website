@@ -23,7 +23,7 @@ export function SiteHeader() {
           <nav className="flex items-center space-x-2">
             <ModeToggle />
             <Button variant="outline" size="sm" asChild>
-              <Link href="https://github.com" target="_blank" rel="noreferrer">
+              <Link href="https://github.com/Hari-Pant" target="_blank" rel="noreferrer">
                 GitHub
               </Link>
             </Button>
